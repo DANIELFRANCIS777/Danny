@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vasu7979/vasu7979/blob/main/cover.png" alt="Cover Image" width="900" height="200" />
+  <img src="https://github.com/DANIELFRANCIS777/Danny/blob/main/git_cover.jpeg" alt="Cover Image" width="900" height="200" />
 </p>
 
 ## Hi there 👋
